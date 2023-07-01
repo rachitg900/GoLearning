@@ -3,5 +3,13 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello There")
+	var cards string = "first code"
+	card2 := "test new var"
+	fmt.Println(cards)
+	fmt.Println(card2)
 }
+
+// int
+// bool
+// string
+// float64
